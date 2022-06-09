@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Employee name="Насанович Ирина Владимировна">
+	<favourite_movie>Lord of the rings</favourite_movie>
+	<favourite_series>High Fidelity</favourite_series>
+	<favourite_food>Veggies</favourite_food>
+	<favourite_season>Spring</favourite_season>
+	<visit_country>Greece<visit_country>
+</root>
